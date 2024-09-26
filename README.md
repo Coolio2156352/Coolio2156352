@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi
 
 ### Full-stack Developer | React | Next.js | Vue.js | Rust | Node.js | TypeScript | Gatsby | Nuxt.js
 
